@@ -42,11 +42,11 @@ This makes the job search process more organized and easier to analyze.
 
 ## Backend
 
-- .NET 8 Web API  
-- Entity Framework Core  
+- Java 21
+- Spring Boot v3  
 - PostgreSQL  
-- JWT Authentication  
-- FluentValidation  
+- JWT 
+- Validation  
 
 ---
 
